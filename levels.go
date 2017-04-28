@@ -1,7 +1,7 @@
 package main
 
 //separated this to keep the main file clean
-var levelsToArray = [120]int{
+var levels = [120]int64{
 	0,
 	83,
 	174,
